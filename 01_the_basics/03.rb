@@ -1,4 +1,4 @@
-hash = {
+movies = {
   turning_red: 2022,
   cars: 2006,
   toy_story: 1995,
@@ -8,4 +8,10 @@ hash = {
   inside_out: 2015
 }
 
-hash.each { |key, value| puts value }
+puts movies[:turning_red]
+puts movies[:cars]
+puts movies[:toy_story]
+puts movies[:soul]
+puts movies[:coco]
+puts movies[:up]
+puts movies[:inside_out]
