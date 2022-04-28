@@ -1,6 +1,6 @@
 def greeting(name)
-  puts "Nice to meet you, #{name}!"
+  "Nice to meet you, #{name}!"
 end
 
-greeting("Esther")
+puts greeting("Esther")
 
