@@ -1,16 +1,16 @@
 (32 * 4) >= 129
-=> false
+# Return false
 
 false != !true
-=> false
+# Return false
 
 true == 4
-=> true
+# Return true
 
 false == (847 == '847')
-=> true
+# Return true
 
 (!true || (!(100 / 5) == 20) || ((328 / 4) == 82)) || false
-=> true
+# Return true
 
 
