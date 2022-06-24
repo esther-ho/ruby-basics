@@ -7,4 +7,6 @@ def caps(str)
   end
 end
 
-caps('hello world')
+puts caps('hello world')
+puts caps('hello')
+
