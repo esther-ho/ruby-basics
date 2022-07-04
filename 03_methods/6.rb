@@ -7,4 +7,3 @@ ArgumentError: wrong number of arguments (1 for 2)
 The method `calculate_product` is defined in line one in irb
 In line 4, `calculate_product` is called but only passed one argument instead of 2, therefore causing an error. 
 =end
-

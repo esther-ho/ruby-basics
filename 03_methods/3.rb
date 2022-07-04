@@ -3,4 +3,3 @@ def multiply(num1, num2)
 end
 
 p multiply(10, 30)
-

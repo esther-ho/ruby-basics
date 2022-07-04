@@ -6,4 +6,3 @@ while stop_loop != "STOP"
   puts "Type 'STOP' to end."
   stop_loop = gets.chomp
 end
-

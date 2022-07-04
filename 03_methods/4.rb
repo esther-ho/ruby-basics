@@ -5,4 +5,3 @@ def scream(words)
 end
 
 scream("Yippeee") # nothing printed, returns nil
-

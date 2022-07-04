@@ -21,4 +21,3 @@ end
 p "Before no_mutate method: #{b}"
 p no_mutate(b)
 p "After no_mutate method: #{b}"
-

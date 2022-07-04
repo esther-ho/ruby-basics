@@ -9,4 +9,3 @@ end
 
 puts caps('hello world')
 puts caps('hello')
-

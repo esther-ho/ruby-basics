@@ -7,4 +7,3 @@
 4. four = "four" # returns "four"
 
 5. print something = "nothing" # prints "nothing", returns nil
-

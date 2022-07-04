@@ -10,4 +10,3 @@ while x <= 10
   end
   x += 1
 end
-
