@@ -4,5 +4,7 @@ family = {  uncles: ["bob", "joe", "steve"],
             aunts: ["mary", "sally", "susan"],
           }
 
-intermediate_family = family.select { |k, v| k == :uncles || k == :aunts }
-intermediate_family_array = intermediate_family.values.flatten
+immediate_family = family.select { |k, v| k == :sisters || k == :brothers }
+immediate_family_array = immediate_family.values.flatten
+
+p immediate_family_array
