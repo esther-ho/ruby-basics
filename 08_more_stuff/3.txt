@@ -1,2 +1,5 @@
-Exception handling is the process of managing errors in a manageable and predictable way.
-It solves the issue of the program stopping when encountering an error caused by an unpredictable condition.
+Exception handling is the process of handling the possibility of errors raised in a program.
+It handles the error by changing the flow of control without exiting the program.
+
+~~Exception handling is the process of managing errors in a manageable and predictable way.~~
+~~It solves the issue of the program stopping when encountering an error caused by an unpredictable condition.~~
